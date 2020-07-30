@@ -2,7 +2,7 @@ apiVersion: eksctl.io/v1alpha5
 kind: ClusterConfig
 
 metadata:
-  name: hemant-fargate-cluster
+  name: sunil-fargate-cluster
   region: ap-southeast-1
 
 
