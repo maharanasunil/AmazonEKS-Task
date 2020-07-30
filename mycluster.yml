@@ -14,7 +14,7 @@ nodeGroups:
      ssh:
         publicKeyName: mykey
    - name: ng2
-     desiredCapacity: 1
+     desiredCapacity: 1 
      instanceType: t2.small
      ssh:
         publicKeyName: mykey
